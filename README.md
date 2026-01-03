@@ -81,4 +81,4 @@ Power BI Maps (Bing) for regional visualization
 ![Overview Dashboard](Dash_SS_1.png)
 
 ### Details Page
-![Details Dashboard](details_dashboard.png)
+![Details Dashboard](Dash_SS_2.png)
